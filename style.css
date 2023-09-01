@@ -55,25 +55,31 @@ a:hover{
     border-radius: 10px;
 }
 
+main{
+    min-width: 500px;
+    margin-left: 10px;
+}
 section {
-    padding: 50px;
+    padding: 10px;
+    
 }
 
 section> p {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.2em;
     padding-top: 10px;
+    padding-bottom: 50px;
     display: inline-block;
-    background-color: #0c0c0c8c;
+    background-color: #58585800;
     
     text-align: justify;
-    box-shadow: 1px 0px 50px #0c0c0c71;
+    box-shadow: 1px 0px 50px #0c0c0c00;
 }
 
 
 img{
-    height: 40vh;
-    width: 200px;
+    height: 290px;
+    width: 190px;
     padding: 10px;
 }
  
